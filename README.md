@@ -18,7 +18,6 @@
 # Clone the repository
 git clone https://github.com/abhiram-1729
 
-
 # 🧠 AI Resume Analyzer
 
 A tool that parses information from a resume using natural language processing (NLP), finds keywords, clusters them into sectors, and provides recommendations, predictions, and analytics to both applicants and recruiters based on keyword matching.
