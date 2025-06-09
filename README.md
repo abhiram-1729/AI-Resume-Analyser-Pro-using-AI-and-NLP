@@ -93,3 +93,13 @@ Make sure you have the following installed to ensure a smooth setup:
 - 🛠️ **Visual Studio Build Tools for C++** (Required for some dependencies)  
   [Download Build Tools](https://aka.ms/vs/17/release/vs_BuildTools.exe)
 
+## 👀 Setup & Installation
+
+To run this project, follow the steps below: 😨
+
+---
+
+### 🔽 1. Clone the Repository
+
+```bash
+git clone https://github.com/deepakpadhi986/AI-Resume-Analyzer.git
