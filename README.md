@@ -26,3 +26,62 @@ v. 📊 Enables **analytics** to track the **roles most commonly targeted** by u
 vi. 🔁 Supports continuous **tool improvement** based on **user feedback**.
 
 
+## 🍻 Tech Stack
+
+- **Frontend:**  
+  Streamlit / React.js / HTML-CSS (optional based on implementation)
+
+- **Backend:**  
+  Python (Flask / FastAPI), NLP Libraries (spaCy, NLTK), Transformers
+
+- **Database:**  
+  SQLite / PostgreSQL
+
+- **Modules:**  
+  Resume Parsing, Keyword Extraction, Recommendation Engine, Admin Dashboard, Analytics, Feedback System
+
+---
+
+## 🤦‍♂️ Features
+
+### 👤 Client:
+
+- Fetching **location** and miscellaneous data
+- Using **parsing techniques** to extract:
+  - Basic Info
+  - Skills
+  - Keywords
+- Using **logical algorithms** to recommend:
+  - Skills that can be added
+  - Predicted job role
+  - Courses and certificates
+  - Resume tips and ideas
+  - Overall resume score
+  - Interview & resume tip videos
+
+---
+
+### 🛠️ Admin:
+
+- View all applicant data in a **tabular format**
+- **Download** user data as a **CSV file**
+- Access and manage uploaded resumes in the **Uploaded Resume** folder
+- View user **feedback and ratings**
+- Visualize data using **Pie Charts** for:
+  - Ratings
+  - Predicted fields / roles
+  - Experience levels
+  - Resume scores
+  - User count
+  - City / State / Country distribution
+
+---
+
+## 💬 Feedback System
+
+- Simple **form filling**
+- **Rating** from 1 to 5
+- Displays an **overall ratings pie chart**
+- Shows **comment history** from past users
+
+
