@@ -6,6 +6,9 @@
 ![Code Size](https://img.shields.io/github/repo-size/deepakpadhi986/AI-Resume-Analyzer)
 
 ---
+`Full Website view`
+
+![image](https://github.com/abhiram-1729/Ecommerce-website-using-Django-and-Javascript/blob/main/vedios/Homepage.png)
 
 💖 **Built by** [Abhiram Rangoon](https://github.com/abhiram-1729)    
 
