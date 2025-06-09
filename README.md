@@ -73,7 +73,7 @@ vi. 🔁 Supports continuous **tool improvement** based on **user feedback**.
 ## 💬 Feedback System
 
 - Simple **form filling**
-- **Rating** from 1 to 5
+- **Rating** can be given in the form of emoji
 - Displays an **overall ratings pie chart**
 - Shows **comment history** from past users
 
