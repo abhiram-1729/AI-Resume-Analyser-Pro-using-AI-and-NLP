@@ -28,17 +28,10 @@ vi. 🔁 Supports continuous **tool improvement** based on **user feedback**.
 
 ## 🍻 Tech Stack
 
-- **Frontend:**  
-  Streamlit / React.js / HTML-CSS (optional based on implementation)
-
-- **Backend:**  
-  Python (Flask / FastAPI), NLP Libraries (spaCy, NLTK), Transformers
-
-- **Database:**  
-  SQLite / PostgreSQL
-
-- **Modules:**  
-  Resume Parsing, Keyword Extraction, Recommendation Engine, Admin Dashboard, Analytics, Feedback System
+- **Frontend:**  Streamlit / React.js / HTML-CSS (optional based on implementation)
+- **Backend:**  Python (Flask / FastAPI), NLP Libraries (spaCy, NLTK), Transformers
+- **Database:**  MySQL
+- **Modules:**  Resume Parsing, Keyword Extraction, Recommendation Engine, Admin Dashboard, Analytics, Feedback System
 
 ---
 
