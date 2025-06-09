@@ -104,6 +104,8 @@ To run this project, follow the steps below: 😨
 ```bash
 git clone https://github.com/deepakpadhi986/AI-Resume-Analyzer.git
 
+---
+
 Create a virtual environment and activate it (recommended)
 
 Open your command prompt and change your project directory to AI-Resume-Analyzer and run the following command
