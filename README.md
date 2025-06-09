@@ -104,11 +104,29 @@ To run this project, follow the steps below: 😨
 ```bash
 git clone https://github.com/deepakpadhi986/AI-Resume-Analyzer.git
 
----
+### 🧪 2. Create and Activate Virtual Environment (Recommended)
+Open terminal or command prompt, navigate to the project folder:
 
-Create a virtual environment and activate it (recommended)
-
-Open your command prompt and change your project directory to AI-Resume-Analyzer and run the following command
-
+cd AI-Resume-Analyzer
 python -m venv venvapp
-.venv/scripts/activate
+venvapp\Scripts\activate
+
+### 📦 3. Install Required Packages
+cd App
+pip install -r requirements.txt
+python -m spacy download en_core_web_sm
+
+### 🗃️ 4. Set Up Database
+Create a MySQL database named cv.
+Update your credentials in:
+AI-Resume-Analyzer/App/App.py
+At line 95, replace with your MySQL user credentials:
+connection = pymysql.connect(host='localhost', user='abhi', password='abhi123', db='cv')
+
+### 🔁 5. Replace File in Dependency
+venvapp/Lib/site-packages/pyresparser
+Replace the existing resume_parser.py with the custom resume_parser.py provided inside the pyresparser folder of the project.
+
+### 🎉 6. Run the App
+Make sure your virtual environment is activated and you're inside the App directory.
+streamlit run App.py
