@@ -77,4 +77,19 @@ vi. 🔁 Supports continuous **tool improvement** based on **user feedback**.
 - Displays an **overall ratings pie chart**
 - Shows **comment history** from past users
 
+## 😅 Requirements
+
+Make sure you have the following installed to ensure a smooth setup:
+
+- 🐍 **Python (v3.9.12)**  
+  [Download Python 3.9.12](https://www.python.org/downloads/release/python-3912/)
+
+- 🛢️ **MySQL**  
+  [Download MySQL](https://www.mysql.com/downloads/)
+
+- 🖊️ **Visual Studio Code** (Preferred Code Editor)  
+  [Download VS Code](https://code.visualstudio.com/Download)
+
+- 🛠️ **Visual Studio Build Tools for C++** (Required for some dependencies)  
+  [Download Build Tools](https://aka.ms/vs/17/release/vs_BuildTools.exe)
 
