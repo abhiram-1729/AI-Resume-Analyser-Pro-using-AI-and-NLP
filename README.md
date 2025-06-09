@@ -99,7 +99,6 @@ To run this project, follow the steps below: 😨
 
 ---
 
-### 🔽 1. Clone the Repository
 
 ```bash
 git clone https://github.com/deepakpadhi986/AI-Resume-Analyzer.git
