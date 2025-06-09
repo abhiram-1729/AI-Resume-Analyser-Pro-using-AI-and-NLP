@@ -8,7 +8,7 @@
 ---
 `Full Website view`
 
-![image](https://github.com/abhiram-1729/Ecommerce-website-using-Django-and-Javascript/blob/main/vedios/Homepage.png)
+![image](https://github.com/abhiram-1729/AI-Resume-Analyser-Pro-using-AI-and-NLP/blob/main/screencapture-localhost-8501-2025-06-08-12_42_30.png)
 
 💖 **Built by** [Abhiram Rangoon](https://github.com/abhiram-1729)    
 
