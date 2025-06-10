@@ -38,7 +38,7 @@ vi. 🔁 Supports continuous **tool improvement** based on **user feedback**.
 
 ---
 
-## 🤦‍♂️ Features
+##  Features
 
 ### 👤 Client:
 
@@ -80,7 +80,7 @@ vi. 🔁 Supports continuous **tool improvement** based on **user feedback**.
 - Displays an **overall ratings pie chart**
 - Shows **comment history** from past users
 
-## 😅 Requirements
+## Requirements
 
 Make sure you have the following installed to ensure a smooth setup:
 
@@ -98,7 +98,7 @@ Make sure you have the following installed to ensure a smooth setup:
 
 ## 👀 Setup & Installation
 
-To run this project, follow the steps below: 😨
+To run this project, follow the steps below: 
 
 ---
 
